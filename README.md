@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Glinax Prime Web – README
 
 ## 📌 Overview
@@ -191,3 +192,6 @@
 # GLINAX
 An AI powered study tool
 >>>>>>> 17846a160c8bd29d05b54167e0f0972e28a64f91
+=======
+# backend
+>>>>>>> ffd18936c00d5e7a9ef11c73ab77ebae4141fc39
